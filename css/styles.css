@@ -1,0 +1,151 @@
+body {
+  margin: 0;
+  color: black;
+  font-family: 'Quicksand', 'Arial', sans-serif;
+  font-size: 1.3rem;
+}
+
+hr {
+  color: #A301FF;
+  margin: 0;
+}
+
+th {
+  color: #112D4E;
+  font-style: oblique;
+}
+
+a {
+  color: #A301FF;
+}
+
+a:hover {
+  background-color: #F0D8FE;
+}
+
+.pocetak {
+  font-size: 1.50rem;
+}
+
+.copyright {
+  font-size: 0.75rem;
+}
+
+.profilna {
+  border-radius: 8px;
+  float: right;
+  position: absolute;
+  right: 100px;
+  top: 25px;
+}
+
+.racunar {
+  float: right;
+  position: relative;
+  right: 150px;
+  bottom: 120px;
+}
+
+.Microsoft {
+  float: right;
+  position: relative;
+  right: 150px;
+  bottom: 120px;
+}
+
+.kockica {
+  text-align: center;
+  height: 20%;
+  font-family: 'Crimson Text', italic;
+  color: #EEEEEE;
+  letter-spacing: 0.2rem;
+}
+
+.Uvod {
+  background-color: #112D4E;
+  opacity: 0.8;
+  background-size: 20px 20px;
+  background-image: repeating-linear-gradient(0deg, #023e8a, #023e8a 1px, #112D4E 1px, #112D4E);
+  padding-top: 198px;
+  padding-bottom: 200px;
+  font-size: 2rem;
+  line-height: 30px;
+}
+
+.intro {
+  background-color: #DBE2EF;
+  position: relative;
+  padding-top: 8px;
+  padding-bottom: 16px;
+  padding-left: 20px;
+
+}
+
+.Skole {
+  background-color: #F9F7F7;
+  position: relative;
+}
+
+.Programiranje {
+  background-color: #DBE2EF;
+  position: relative;
+  padding-bottom: 10px;
+}
+
+.Sloboda {
+  background-color: #112D4E;
+  color: #F9F7F7;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 10px;
+}
+
+.footer {
+  background-color: #DBE2EF;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  text-align: center;
+}
+
+.Kolona {
+  width: 50%;
+  color: #3F82EF;
+  letter-spacing: 0.2rem;
+  padding-left: 1rem;
+  font-family: 'Mouse Memoirs', 'Arial', sans-serif;
+}
+
+.Sirina {
+  width: 100%;
+}
+
+.dugme {
+  background: #E5A6FB;
+  background-image: -webkit-linear-gradient(top, #E5A6FB, #6CA4FD);
+  background-image: -moz-linear-gradient(top, #E5A6FB, #6CA4FD);
+  background-image: -ms-linear-gradient(top, #E5A6FB, #6CA4FD);
+  background-image: -o-linear-gradient(top, #E5A6FB, #6CA4FD);
+  background-image: -webkit-gradient(to bottom, #E5A6FB, #6CA4FD);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-family: Arial;
+  font-size: 25px;
+  font-weight: 100;
+  padding: 10px;
+  border: solid #337FED 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.dugme:hover {
+  background: #A301FF;
+  
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
